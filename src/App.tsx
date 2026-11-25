@@ -1,11 +1,9 @@
-import './App.css'
-
 function App() {
   return (
-   <div>
-    <h1>POKEDEXIA</h1>
-   </div>
-  )
+    <div>
+      <h1 className="text-3xl font-extrabold text-indigo-600">Pokédexia</h1>
+    </div>
+  );
 }
 
-export default App
+export default App;
