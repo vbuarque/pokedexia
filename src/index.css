@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --bg-slate-50: #F8FAFC;
+  --bg-white: #FFFFFF;
+  --border-slate-200: #E2E8F0;
+  --text-slate-900: #0F172A;
+  --text-slate-500: #64748B;
+  --bg-indigo-600: #4F46E5;
+  --text-red-600: #DC2626;
+}
